@@ -12,7 +12,7 @@ Java/Spring Boot와 AWS 환경에서 **MVP 개발 → 운영 → 개선** 과정
 
 ---
 
-## 📬 Contact & Portfolio
+## 📬 연락처 및 포트폴리오
 
 - 📧 Email : [dudxo3295@naver.com](mailto:dudxo3295@naver.com)  
 - 📂 Portfolio : [권영태 포트폴리오 (PDF)](https://drive.google.com/file/d/1izlh4MkJM2Am69jX3JsTnGrRR47Jpsy0/view?usp=sharing)
@@ -46,7 +46,7 @@ Java/Spring Boot와 AWS 환경에서 **MVP 개발 → 운영 → 개선** 과정
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 기술 스택
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17-007396?style=flat&logo=openjdk&logoColor=white)
@@ -73,6 +73,6 @@ Java/Spring Boot와 AWS 환경에서 **MVP 개발 → 운영 → 개선** 과정
 
 ---
 
-## 📊 Stats
+## 📊 활동 통계
 [![Solved.ac dudxo3295](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudxo3295)](https://solved.ac/dudxo3295)  
 ![dudxo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudxo&show_icons=true&theme=transport&count_private=true&include_all_commits=true&cache_seconds=1800)
