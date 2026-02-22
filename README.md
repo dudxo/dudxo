@@ -15,8 +15,7 @@ Java/Spring Boot와 AWS 환경에서 **MVP 개발 → 운영 → 개선** 과정
 ## 📬 연락처 및 포트폴리오
 
 - 📧 Email : [dudxo3295@naver.com](mailto:dudxo3295@naver.com)
-- 📋 Resume : [권영태 이력서 (PDF)](https://drive.google.com/drive/folders/15BgJDxZjc2GKpqLla6cACF6J6kWHq5LY?usp=sharing)
-- 📂 Portfolio : [권영태 포트폴리오 (PDF)](https://drive.google.com/drive/folders/19zUJQ7xHBCbFr_j09ZV-TStAbRtocMdM?usp=sharing)
+
 
 ---
 
